@@ -17,4 +17,5 @@ cache:
 install:
   - npm ci
 script:
+  # this is a comment in order to trigger Travis
   - npm run e2e
